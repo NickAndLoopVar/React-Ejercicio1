@@ -1,0 +1,12 @@
+.contenedor-principal {
+  background-color: #8a4fff;
+  height: 100%;
+  padding: 0px 0px 20px;
+}
+
+.contenedor-principal h1 {
+  margin: 0px;
+  color: #effffa;
+  padding-top: 5px;
+  text-align: center;
+}

@@ -1,0 +1,45 @@
+.contenedor-perfil {
+  padding: 30px;
+  margin: 10px auto 0px auto;
+  width: 75%;
+  background-color: #c3bef7;
+  border-radius: 70px;
+  box-shadow: 5px 5px 5px #a787fb;
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagen-perfil {
+  margin: auto;
+  width: 180px;
+  max-height: 180px;
+  border-radius: 100px;
+}
+
+.contenedor-texto {
+  text-align: center;
+}
+
+.texto-perfil {
+  margin: 0px;
+  padding: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  line-height: 1rem;
+  font-size: 25px;
+  color: #effffa;
+}
+
+.cargo-perfil {
+  margin: 0px;
+  font-size: 1rem;
+  color: #3900a3;
+  padding: 15px;
+}
+.resena-perfil {
+  margin: 0px;
+  font-size: 1rem;
+  padding: 15px;
+  text-align: justify;
+  color: #3900a3;
+}
